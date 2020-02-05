@@ -1,10 +1,10 @@
 #intro {
-  background: url("../img/panorama-3094696_1920.jpg") no-repeat center center;
+  background: url("../img/gs-bg.jpg") no-repeat center center;
   background-size: cover;
 }
 
 .top-nav-collapse {
-  background-color: #25292F !important;
+  background-color: #25292f !important;
 }
 
 .navbar:not(.top-nav-collapse) {
@@ -13,7 +13,7 @@
 
 @media (max-width: 768px) {
   .navbar:not(.top-nav-collapse) {
-    background: #25292F !important;
+    background: #25292f !important;
   }
 }
 
@@ -22,9 +22,9 @@
   line-height: 1.7;
 }
 
-.hm-gradient .full-bg-img {
-  background: rgba(37, 41, 47, 0.7);
-  background: linear-gradient(45deg, rgba(19, 20, 22, 0.865), rgba(90, 92, 91, 0.865) 100%);
+/*.hm-gradient*/ .full-bg-img {
+  background: rgba(235, 89, 16, 0.655);
+  background: linear-gradient(65deg, rgba(235,83,16,0.855) 21%, rgba(46,42,39,0.755) 39%, rgba(0,0,0,0.755) 75%);
 }
 
 @media (max-width: 450px) {
