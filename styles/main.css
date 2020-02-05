@@ -4,7 +4,7 @@
 }
 
 .top-nav-collapse {
-  background-color: #3949ab !important;
+  background-color: #25292F !important;
 }
 
 .navbar:not(.top-nav-collapse) {
@@ -13,7 +13,7 @@
 
 @media (max-width: 768px) {
   .navbar:not(.top-nav-collapse) {
-    background: #3949ab !important;
+    background: #25292F !important;
   }
 }
 
@@ -23,8 +23,8 @@
 }
 
 .hm-gradient .full-bg-img {
-  background: rgba(42, 27, 161, 0.7);
-  background: linear-gradient(45deg, rgba(42, 27, 161, 0.7), rgba(29, 210, 177, 0.7) 100%);
+  background: rgba(37, 41, 47, 0.7);
+  background: linear-gradient(45deg, rgba(19, 20, 22, 0.865), rgba(90, 92, 91, 0.865) 100%);
 }
 
 @media (max-width: 450px) {
